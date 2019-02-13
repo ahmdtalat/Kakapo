@@ -9,7 +9,7 @@ Use openweathermap.org api to get the weather with django.
 > Running the application on your machine:-
 
 -   \$ cd ~/Desktop
--   \$ clone this repo to your pc "git clone https://github.com/ahmdtalaat/CityWeather.git"
+-   \$ clone this repo to your pc "git clone https://github.com/ahmdtalaat/Kakapo.git"
 -   \$ cd ~/Desktop/DjangoBlogApplication
 -   \$ pip install pipenv
 -   \$ pipenv install
